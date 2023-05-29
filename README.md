@@ -1,6 +1,31 @@
-# Python Jupyter Notebook Playlist
+<!-- Add an eye-catching header -->
+<h1 align="center">Python Jupyter Notebook Playlist</h1>
 
-This repository contains a collection of Jupyter Notebook files showcasing my work in Python programming. The notebooks are organized into sections, each covering a specific topic.
+<p align="center">
+  <em>This repository contains a collection of Jupyter Notebook files showcasing my work in Python programming.</em>
+</p>
+
+<p align="center">
+  <img src="https://your-image-url.com" alt="Project Screenshot" width="600">
+</p>
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Control Flow](#control-flow)
+- [Built-in Functions](#built-in-functions)
+- [Modules](#modules)
+- [Strings](#strings)
+- [Lists](#lists)
+- [Tuples](#tuples)
+- [Sets](#sets)
+- [Variable and Memory References](#variable-and-memory-references)
+- [Functions](#functions)
+- [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
+- [Threading](#threading)
+- [Iteration](#iteration)
+- [Generators](#generators)
+- [Build GUI using Tkinter](#build-gui-using-tkinter)
 
 ## Introduction
 
@@ -8,8 +33,8 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 - `sep` parameter
 - `end` parameter
 - Data Types
-    - Basic Type
-    - Container Type
+  - Basic Type
+  - Container Type
 - Comment
 - Variables
 - Dynamic Typing
@@ -22,10 +47,10 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 - `type()`
 - Type Conversion
 - Literals
-    - Numeric Literals
-    - String Literals
-    - Boolean Literals
-    - Special Literals
+  - Numeric Literals
+  - String Literals
+  - Boolean Literals
+  - Special Literals
 - Operators
 - Arithmetic Operator
 - Comparison Operator
@@ -40,14 +65,14 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 - `if`-`else` statement
 - `elif` statement
 - Looping
-    - `while` loop
-    - Guessing Game
-    - `for` loop
-    - `range()`
-    - Nested Loop
-    - `break` statement
-    - `continue` statement
-    - `pass` statement
+  - `while` loop
+  - Guessing Game
+  - `for` loop
+  - `range()`
+  - Nested Loop
+  - `break` statement
+  - `continue` statement
+  - `pass` statement
 
 ## Built-in Functions
 
@@ -76,6 +101,7 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 
 ## Strings
 
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - Creating Strings
 - Accessing Strings
 - Type of Indexing
@@ -88,28 +114,37 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 
 ## Lists
 
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - List vs Array
 - Creating Lists
 - Accessing Lists
 - Editing Lists
 - Adding Elements to Lists
-    - `append()`
-    - `extend()`
-    - `insert()`
+  - `append()`
+  - `extend()`
+  - `insert()`
 - Deleting Elements from Lists
-    - `del` statement
-    - `remove()`
-    - `pop()`
-    - `clear()`
+  - `del` statement
+  - `remove()`
+  - `pop()`
+  - `clear()`
 - Operations on Lists
-    - Concatenation
-    - Multiplication
-    - Looping
-    - Membership
+  - Concatenation
+  - Multiplication
+  - Looping
+  - Membership
 - List Functions
+  - `len()`
+  - `min()`
+  - `max()`
+  - `sorted()`
+  - `sort()`
+  - `index()`
+  
+  
+  ## Tuples
 
-## Tuples
-
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - Tuples are read-only datatypes
 - Accessing Tuples
 - Editing Tuples
@@ -119,6 +154,7 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 
 ## Sets
 
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - Sets do not allow duplicates
 - Sets have no indexing/slicing
 - Sets don't allow mutable data types
@@ -127,20 +163,21 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 - Accessing Sets
 - Adding Elements to Sets
 - Deleting Elements from Sets
-    - `del` statement
-    - `remove()`
+  - `del` statement
+  - `remove()`
 - Operations on Sets
-    - Union
-    - Intersection
-    - Difference
-    - Symmetric Difference
-    - Disjoint
-    - Subset
-    - Superset
+  - Union
+  - Intersection
+  - Difference
+  - Symmetric Difference
+  - Disjoint
+  - Subset
+  - Superset
 - Set Functions
 
 ## Variable and Memory References
 
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - Aliasing
 - Reference Counting
 - Garbage Collection
@@ -148,36 +185,38 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 
 ## Functions
 
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - Components of a Function
-    - `def` keyword
-    - Name of the function
-    - Arguments
-    - Reading the manual
-    - Function Body
-    - Return Statement
-    - Function Call
-    - Parameters vs Arguments
-    - Types of Arguments
-        - Default Arguments
-        - Positional Arguments
-        - Keyword Arguments
-        - Arbitrary Arguments
-    - Global vs Local Variable
-    - Recursion
-        - Multiplication
-        - Factorial
-        - Palindrome
-        - Fibonacci
-    - Lambda Functions (Anonymous Functions)
-    - Higher-Order Functions
-        - `map()`
-        - `filter()`
-        - `reduce()`
-    - List Comprehension
-    - Dictionary Comprehension
+  - `def` keyword
+  - Name of the function
+  - Arguments
+  - Reading the manual
+  - Function Body
+  - Return Statement
+  - Function Call
+- Parameters vs Arguments
+- Types of Arguments
+  - Default Arguments
+  - Positional Arguments
+  - Keyword Arguments
+  - Arbitrary Arguments
+- Global vs Local Variable
+- Recursion
+  - Multiplication
+  - Factorial
+  - Palindrome
+  - Fibonacci
+- Lambda Functions (Anonymous Functions)
+- Higher-Order Functions
+  - `map()`
+  - `filter()`
+  - `reduce()`
+- List Comprehension
+- Dictionary Comprehension
 
 ## Object-Oriented Programming (OOP)
 
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - Class
 - Method vs Function
 - Magic Methods
@@ -209,12 +248,14 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 
 ## Threading
 
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - Threading Procedure
 - Normal Procedure
 - Thread Synchronization
 
 ## Iteration
 
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - Iterator
 - Iterable
 - Loop Working
@@ -223,6 +264,7 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 
 ## Generators
 
+<!-- Add code examples, explanations, and screenshots if applicable -->
 - Range Function using Generators
 - Generator Expression
 - Benefits of Generators
@@ -233,5 +275,6 @@ This repository contains a collection of Jupyter Notebook files showcasing my wo
 
 ## Build GUI using Tkinter
 
-- Wallpaper Viewer Application using Tkinter (Provide your code and description here)
+<!-- Add code examples, explanations, and screenshots if applicable -->
+- Wallpaper Viewer Application using Tkinter
 
