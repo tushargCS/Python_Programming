@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="Project Screenshot" width="600">
+  <img src="https://www.logicraysacademy.com/blog/wp-content/uploads/2020/04/python-programming.png" alt="Project Screenshot" width="600">
 </p>
 
 ## Table of Contents
