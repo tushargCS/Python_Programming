@@ -127,97 +127,155 @@
   - `remove()`
   - `pop()`
   - `clear()`
-## Tuples
+- Operations on Lists
+  - Concatenation
+  - Multiplication
+  - Looping
+  - Membership
+- List Functions
+  - `len()`
+  - `min()`
+  - `max()`
+  - `sorted()`
+  - `sort()`
+  - `index()`
+  
+  
+  ## Tuples
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Creating Tuples
+- Tuples are read-only datatypes
 - Accessing Tuples
 - Editing Tuples
-- Tuple Operations
+- Deleting Tuples
+- Operations on Tuples
 - Tuple Functions
 
 ## Sets
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Creating Sets
+- Sets do not allow duplicates
+- Sets have no indexing/slicing
+- Sets don't allow mutable data types
+- Sets itself is a mutable datatype
+- Set uses Hashing to store data
 - Accessing Sets
-- Modifying Sets
-- Set Operations
+- Adding Elements to Sets
+- Deleting Elements from Sets
+  - `del` statement
+  - `remove()`
+- Operations on Sets
+  - Union
+  - Intersection
+  - Difference
+  - Symmetric Difference
+  - Disjoint
+  - Subset
+  - Superset
 - Set Functions
 
 ## Variable and Memory References
 
-- Variables as References
-- Memory Allocation
-- Memory Management
-- Object Mutability
-- Variable Assignment
-- Variable Equality
-- Object Identity
+<!-- Add code examples, explanations, and screenshots if applicable -->
+- Aliasing
+- Reference Counting
+- Garbage Collection
+- Cloning
 
 ## Functions
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Defining Functions
-- Function Arguments
+- Components of a Function
+  - `def` keyword
+  - Name of the function
+  - Arguments
+  - Reading the manual
+  - Function Body
+  - Return Statement
+  - Function Call
+- Parameters vs Arguments
+- Types of Arguments
+  - Default Arguments
   - Positional Arguments
   - Keyword Arguments
-  - Default Arguments
-  - Variable-length Arguments
-- Return Statement
-- Lambda Functions
-- Scope and Lifetime of Variables
-- Recursive Functions
-- Decorators
+  - Arbitrary Arguments
+- Global vs Local Variable
+- Recursion
+  - Multiplication
+  - Factorial
+  - Palindrome
+  - Fibonacci
+- Lambda Functions (Anonymous Functions)
+- Higher-Order Functions
+  - `map()`
+  - `filter()`
+  - `reduce()`
+- List Comprehension
+- Dictionary Comprehension
 
 ## Object-Oriented Programming (OOP)
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Introduction to OOP
-- Class and Object
-- Attributes and Methods
-- Inheritance
-- Polymorphism
+- Class
+- Method vs Function
+- Magic Methods
+- `self` Keyword
+- Instance Variables
 - Encapsulation
-- Abstraction
+- Getter and Setter Methods
+- Reference Variable
+- Pass-By-Reference
+- Collection of Objects
+- Static
+  - Static Variable
+  - Static Methods
+- Relationships between Classes
+  - Aggregation (Has-a Relationship)
+  - Inheritance (Is-a Relationship)
+- Constructor Inheritance
+- Polymorphism
+  - Method Overriding
+  - Method Overloading
+- Operator Overloading
+- `super` Keyword
+- Types of Inheritance
+  - Single Level
+  - Multi-level
+  - Hierarchical
+  - Multiple
+  - Hybrid
 
 ## Threading
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Multithreading
-- Creating Threads
+- Threading Procedure
+- Normal Procedure
 - Thread Synchronization
-- Thread Communication
 
 ## Iteration
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Iteration with `for` Loop
-- Iteration with `while` Loop
-- Iterators
-- `iter()` and `next()`
-- Iterating Through Multiple Sequences
-- `zip()`
-- `enumerate()`
+- Iterator
+- Iterable
+- Loop Working
+- Making Our Own Loop
+- Own `range()` Function
 
 ## Generators
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Introduction to Generators
-- Creating Generators
-- `yield` Statement
-- Generator Expressions
-- Advantages of Generators
+- Range Function using Generators
+- Generator Expression
+- Benefits of Generators
+  - Memory Efficiency
+  - Easy of Implementation
+  - Representing Infinite Streams
+  - Chaining Generators
 
 ## Build GUI using Tkinter
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Introduction to Tkinter
-- Creating a Basic Window
-- Adding Widgets
-- Handling Events
-- Building GUI Applications
+- Wallpaper Viewer Application using Tkinter
 
-## Contributing
-
+## Contributing 
 Contributions are welcome! If you find any issues or would like to propose new topics or improvements, please submit an issue or a pull request.
