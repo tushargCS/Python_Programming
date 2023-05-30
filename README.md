@@ -1,5 +1,5 @@
 <!-- Add an eye-catching header -->
-<h1 align="center"><span style="color:#FF6347">Python Jupyter Notebook Playlist</span></h1>
+<h1 align="center"><span style="color:#FF6347">Python Jupyter Notebook Series</span></h1>
 <p align="center">
   <em>This repository contains a collection of Jupyter Notebook files showcasing my work in Python programming.</em>
 </p>
