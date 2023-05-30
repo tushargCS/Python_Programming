@@ -127,153 +127,97 @@
   - `remove()`
   - `pop()`
   - `clear()`
-- Operations on Lists
-  - Concatenation
-  - Multiplication
-  - Looping
-  - Membership
-- List Functions
-  - `len()`
-  - `min()`
-  - `max()`
-  - `sorted()`
-  - `sort()`
-  - `index()`
-  
-  
-  ## Tuples
+## Tuples
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Tuples are read-only datatypes
+- Creating Tuples
 - Accessing Tuples
 - Editing Tuples
-- Deleting Tuples
-- Operations on Tuples
+- Tuple Operations
 - Tuple Functions
 
 ## Sets
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Sets do not allow duplicates
-- Sets have no indexing/slicing
-- Sets don't allow mutable data types
-- Sets itself is a mutable datatype
-- Set uses Hashing to store data
+- Creating Sets
 - Accessing Sets
-- Adding Elements to Sets
-- Deleting Elements from Sets
-  - `del` statement
-  - `remove()`
-- Operations on Sets
-  - Union
-  - Intersection
-  - Difference
-  - Symmetric Difference
-  - Disjoint
-  - Subset
-  - Superset
+- Modifying Sets
+- Set Operations
 - Set Functions
 
 ## Variable and Memory References
 
-<!-- Add code examples, explanations, and screenshots if applicable -->
-- Aliasing
-- Reference Counting
-- Garbage Collection
-- Cloning
+- Variables as References
+- Memory Allocation
+- Memory Management
+- Object Mutability
+- Variable Assignment
+- Variable Equality
+- Object Identity
 
 ## Functions
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Components of a Function
-  - `def` keyword
-  - Name of the function
-  - Arguments
-  - Reading the manual
-  - Function Body
-  - Return Statement
-  - Function Call
-- Parameters vs Arguments
-- Types of Arguments
-  - Default Arguments
+- Defining Functions
+- Function Arguments
   - Positional Arguments
   - Keyword Arguments
-  - Arbitrary Arguments
-- Global vs Local Variable
-- Recursion
-  - Multiplication
-  - Factorial
-  - Palindrome
-  - Fibonacci
-- Lambda Functions (Anonymous Functions)
-- Higher-Order Functions
-  - `map()`
-  - `filter()`
-  - `reduce()`
-- List Comprehension
-- Dictionary Comprehension
+  - Default Arguments
+  - Variable-length Arguments
+- Return Statement
+- Lambda Functions
+- Scope and Lifetime of Variables
+- Recursive Functions
+- Decorators
 
 ## Object-Oriented Programming (OOP)
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Class
-- Method vs Function
-- Magic Methods
-- `self` Keyword
-- Instance Variables
-- Encapsulation
-- Getter and Setter Methods
-- Reference Variable
-- Pass-By-Reference
-- Collection of Objects
-- Static
-  - Static Variable
-  - Static Methods
-- Relationships between Classes
-  - Aggregation (Has-a Relationship)
-  - Inheritance (Is-a Relationship)
-- Constructor Inheritance
+- Introduction to OOP
+- Class and Object
+- Attributes and Methods
+- Inheritance
 - Polymorphism
-  - Method Overriding
-  - Method Overloading
-- Operator Overloading
-- `super` Keyword
-- Types of Inheritance
-  - Single Level
-  - Multi-level
-  - Hierarchical
-  - Multiple
-  - Hybrid
+- Encapsulation
+- Abstraction
 
 ## Threading
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Threading Procedure
-- Normal Procedure
+- Multithreading
+- Creating Threads
 - Thread Synchronization
+- Thread Communication
 
 ## Iteration
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Iterator
-- Iterable
-- Loop Working
-- Making Our Own Loop
-- Own `range()` Function
+- Iteration with `for` Loop
+- Iteration with `while` Loop
+- Iterators
+- `iter()` and `next()`
+- Iterating Through Multiple Sequences
+- `zip()`
+- `enumerate()`
 
 ## Generators
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Range Function using Generators
-- Generator Expression
-- Benefits of Generators
-  - Memory Efficiency
-  - Easy of Implementation
-  - Representing Infinite Streams
-  - Chaining Generators
+- Introduction to Generators
+- Creating Generators
+- `yield` Statement
+- Generator Expressions
+- Advantages of Generators
 
 ## Build GUI using Tkinter
 
 <!-- Add code examples, explanations, and screenshots if applicable -->
-- Wallpaper Viewer Application using Tkinter
+- Introduction to Tkinter
+- Creating a Basic Window
+- Adding Widgets
+- Handling Events
+- Building GUI Applications
 
+## Contributing
+
+Contributions are welcome! If you find any issues or would like to propose new topics or improvements, please submit an issue or a pull request.
